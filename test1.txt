@@ -1,1 +1,18 @@
 this is test file 1
+
+->To clone the project from the git the the local repo 
+git clone https://github.com/defina-vv/def-learn.git
+
+->cd def-learn    # def-learn is the repo i created
+
+1.first add the file by using command
+git add filename.txt
+
+2. commit the  file to the local git 
+git commit -m " comment"
+
+3. we can check the status by using the command 
+git status
+
+4 last we need to push the changes to the git hub repo by usig the comment
+git push origin main
