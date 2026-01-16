@@ -14,5 +14,8 @@ git commit -m " comment"
 3. we can check the status by using the command 
 git status
 
-4 last we need to push the changes to the git hub repo by usig the comment
+4. last we need to push the changes to the git hub repo by usig the comment
 git push origin main
+
+5.if any changes like adding file in git newly or any changes done in the exixting file then, the comment used to show the changes in visual studio 
+git pull
